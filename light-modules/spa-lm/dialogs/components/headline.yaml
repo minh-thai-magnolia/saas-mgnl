@@ -2,6 +2,6 @@ label: Headline
 form:
   properties:
     text:
-      label: Headline Text
+      label: Headline Text 123
       $type: textField
       i18n: true
